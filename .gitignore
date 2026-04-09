@@ -1,0 +1,15 @@
+# Dataset and large files
+dataset/
+frames/
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.pth
+*.pt
+
+# System
+.DS_Store
+*.zip
